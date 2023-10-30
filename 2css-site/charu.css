@@ -1,0 +1,18 @@
+html {
+    background:rgb(23, 54, 63)
+}
+.title{
+    color:red;
+}
+#main{
+    color:#CADDEB;
+}
+h6[draggable]{
+    color:#487595;
+}
+h6[draggable="false"]{
+    color:#3c0707;
+}
+*{
+    color:black;
+}
